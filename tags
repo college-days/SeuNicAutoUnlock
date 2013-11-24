@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Autounlock	autounlock.py	/^class Autounlock:$/;"	c
+Autounlock	autounlocknew.py	/^class Autounlock:$/;"	c
+__init__	autounlock.py	/^    def __init__(self):$/;"	m	class:Autounlock
+__init__	autounlocknew.py	/^    def __init__(self):$/;"	m	class:Autounlock
+autounlock	autounlock.py	/^    autounlock = Autounlock()$/;"	v	class:Autounlock
+checkIfUnlock	autounlock.py	/^    def checkIfUnlock(self):$/;"	m	class:Autounlock
+fname	autounlocknew.py	/^    def fname(self):$/;"	m	class:Autounlock
+get	autounlock.py	/^    def get(self, url, data={}):$/;"	m	class:Autounlock
+get	autounlocknew.py	/^    def get(self, url, data={}):$/;"	m	class:Autounlock
+nicDecryption	autounlock.py	/^    def nicDecryption(self, ciphertext=''):$/;"	m	class:Autounlock
+nicEncryption	autounlock.py	/^    def nicEncryption(self):$/;"	m	class:Autounlock
+nicLogin	autounlock.py	/^    def nicLogin(self):$/;"	m	class:Autounlock
+nicLoginNew	autounlock.py	/^    def nicLoginNew(self):$/;"	m	class:Autounlock
+nicLoginUseUrllib	autounlock.py	/^    def nicLoginUseUrllib(self):$/;"	m	class:Autounlock
+nicLoginUseUrllibNew	autounlock.py	/^    def nicLoginUseUrllibNew(self):$/;"	m	class:Autounlock
+nicStatus	autounlock.py	/^    def nicStatus(self):$/;"	m	class:Autounlock
+nicStatusUseUrllib	autounlock.py	/^    def nicStatusUseUrllib(self):$/;"	m	class:Autounlock
+nicUnlock	autounlock.py	/^    def nicUnlock(self):$/;"	m	class:Autounlock
+nicUnlockUseUrllib	autounlock.py	/^    def nicUnlockUseUrllib(self):$/;"	m	class:Autounlock
+post	autounlock.py	/^    def post(self, url, data={}):$/;"	m	class:Autounlock
+post	autounlocknew.py	/^    def post(self, url, data={}):$/;"	m	class:Autounlock
+postToNic	autounlock.py	/^    def postToNic(self):$/;"	m	class:Autounlock
+request	autounlock.py	/^    def request(self, url, method, data={}):$/;"	m	class:Autounlock
+request	autounlocknew.py	/^    def request(self, url, method, data={}):$/;"	m	class:Autounlock
+saveCookie	autounlock.py	/^    def saveCookie(self):$/;"	m	class:Autounlock
+testencode	autounlock.py	/^    def testencode(self):$/;"	m	class:Autounlock
+testredirect	autounlock.py	/^    def testredirect(self):$/;"	m	class:Autounlock

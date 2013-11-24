@@ -1,0 +1,6 @@
+*.py[cod]
+*.pyc
+*.swp
+dist
+MANIFEST
+.DS_Store
